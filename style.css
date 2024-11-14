@@ -1,0 +1,18 @@
+.items{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border: 3px solid red;
+    font-size: 50px;
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+.all{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+}
